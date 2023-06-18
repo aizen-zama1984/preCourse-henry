@@ -1,2 +1,1 @@
-# preCourse-henry
-este es un repositorio de puebas de henry
+es es el nuevo para aprender git parte 2 y subirlo a github.
